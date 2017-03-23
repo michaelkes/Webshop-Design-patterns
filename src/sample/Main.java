@@ -6,14 +6,23 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+import java.awt.*;
+
 public class Main extends Application {
 
     @Override
-    public void start(Stage primaryStage) throws Exception{
+    public void start(Stage stage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
-        primaryStage.setTitle("Hello World");
-        primaryStage.setScene(new Scene(root, 300, 275));
-        primaryStage.show();
+
+        Product apple = new Product(1, "Apple", "This is apple is green like grass", 1.60, 12);
+
+        Scene scene = new Scene(root, 300, 275);
+
+        stage.setTitle("Shopper the app for all youre shopping wishes");
+        stage.setScene(scene);
+        stage.show();
+
+
     }
 
 
