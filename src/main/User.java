@@ -1,4 +1,4 @@
-package sample;
+package main;
 
 /**
  * Created by micha on 23-3-2017.

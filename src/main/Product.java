@@ -1,4 +1,4 @@
-package sample;
+package main;
 
 /**
  * Product class voor het aanmaken van Product objecten
