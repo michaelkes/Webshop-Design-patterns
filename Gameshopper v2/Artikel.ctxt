@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=naam\ prijs\ voorraad
+comment0.target=void\ maakArtikel(java.lang.String,\ double,\ int)
+comment1.params=aantal
+comment1.target=int\ bestel(int)
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment1.params=naam\ prijs\ voorraad
+comment1.target=void\ maakArtikel(java.lang.String,\ double,\ int)
+comment2.params=aantal
+comment2.target=int\ bestel(int)
+numComments=3

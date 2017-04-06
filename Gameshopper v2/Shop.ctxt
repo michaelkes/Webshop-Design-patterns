@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Shop()
+comment1.params=Titel\ prijs\ voorraad
+comment1.target=void\ maakGame(java.lang.String,\ double,\ int)
+comment2.params=Titel\ prijs\ voorraad
+comment2.target=void\ maakAccesoire(java.lang.String,\ double,\ int)
+comment3.params=Titel\ prijs\ voorraad
+comment3.target=void\ maakConsole(java.lang.String,\ double,\ int)
+numComments=4
